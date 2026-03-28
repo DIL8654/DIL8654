@@ -85,6 +85,7 @@ Specializing in:
 
 ## 🔭 Current Focus
 
+- AI Adaptation and Agentic AI for software architecture
 - Scalable SaaS platforms  
 - Secure identity & access systems  
 - Event-driven architectures  
