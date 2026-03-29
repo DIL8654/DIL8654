@@ -2,7 +2,7 @@
 
 # 👨‍💻 Dilanka Muthukumarana
 
-### 🧠 Principal Software Engineer | 🏗️ Enterprise Architect
+### 🧠 Principal Software Engineer | 🏗️ Software Architect
 
 📍 Sandvika, Norway  
 📧 dilanka85@gmail.com  
